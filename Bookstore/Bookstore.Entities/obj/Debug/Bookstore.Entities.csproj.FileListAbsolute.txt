@@ -1,0 +1,4 @@
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Repositorio-Prueba\Bookstore\Bookstore.Entities\bin\Debug\Bookstore.Entities.dll
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Repositorio-Prueba\Bookstore\Bookstore.Entities\bin\Debug\Bookstore.Entities.pdb
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Repositorio-Prueba\Bookstore\Bookstore.Entities\obj\Debug\Bookstore.Entities.dll
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Repositorio-Prueba\Bookstore\Bookstore.Entities\obj\Debug\Bookstore.Entities.pdb

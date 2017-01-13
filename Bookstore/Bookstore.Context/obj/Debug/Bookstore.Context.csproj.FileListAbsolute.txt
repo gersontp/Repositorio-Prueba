@@ -1,0 +1,15 @@
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Repositorio-Prueba\Bookstore\Bookstore.Context\bin\Debug\Bookstore.Context.dll.config
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Repositorio-Prueba\Bookstore\Bookstore.Context\bin\Debug\Bookstore.Context.dll
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Repositorio-Prueba\Bookstore\Bookstore.Context\bin\Debug\Bookstore.Context.pdb
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Repositorio-Prueba\Bookstore\Bookstore.Context\bin\Debug\Bookstore.Entities.dll
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Repositorio-Prueba\Bookstore\Bookstore.Context\bin\Debug\EntityFramework.dll
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Repositorio-Prueba\Bookstore\Bookstore.Context\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Repositorio-Prueba\Bookstore\Bookstore.Context\bin\Debug\Bookstore.Entities.pdb
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Repositorio-Prueba\Bookstore\Bookstore.Context\bin\Debug\EntityFramework.xml
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Repositorio-Prueba\Bookstore\Bookstore.Context\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Repositorio-Prueba\Bookstore\Bookstore.Context\obj\Debug\Bookstore.Context.csprojResolveAssemblyReference.cache
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Repositorio-Prueba\Bookstore\Bookstore.Context\obj\Debug\Bookstore.Context.Migrations.InitialModel.resources
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Repositorio-Prueba\Bookstore\Bookstore.Context\obj\Debug\Bookstore.Context.Migrations.AddingBookState.resources
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Repositorio-Prueba\Bookstore\Bookstore.Context\obj\Debug\Bookstore.Context.csproj.GenerateResource.Cache
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Repositorio-Prueba\Bookstore\Bookstore.Context\obj\Debug\Bookstore.Context.dll
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Repositorio-Prueba\Bookstore\Bookstore.Context\obj\Debug\Bookstore.Context.pdb

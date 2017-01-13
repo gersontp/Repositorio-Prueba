@@ -23,15 +23,15 @@ namespace Bookstore.Context
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
-            modelBuilder.Configurations.Add(new AuthorConfiguration());
+            //modelBuilder.Configurations.Add(new AuthorConfiguration());
 
-            modelBuilder.Configurations.Add(new BookConfiguration());
+            //modelBuilder.Configurations.Add(new BookConfiguration());
 
-            modelBuilder.Configurations.Add(new BookLevelConfiguration());
+            //modelBuilder.Configurations.Add(new BookLevelConfiguration());
 
-            modelBuilder.Configurations.Add(new BookStateConfiguration());
+            //modelBuilder.Configurations.Add(new BookStateConfiguration());
 
-            modelBuilder.Configurations.Add(new TagConfiguration());
+            //modelBuilder.Configurations.Add(new TagConfiguration());
             
             base.OnModelCreating(modelBuilder);
         }
